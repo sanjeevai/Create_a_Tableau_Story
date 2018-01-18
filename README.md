@@ -34,4 +34,10 @@ If you, as a data analyst, can create visualizations to explore data, articulate
 
 ## Project Submission
 
-I have used baseball players dataset to make a Tableau story.This is a data set containing 1,157 baseball players including their handedness (right or left handed), height (in inches), weight (in pounds), batting average, and home runs. I have used visualisations in Tableau to see trends in performance of different players. **'initial.twbx'** contains my initial project. **'final.twbx'** contains my project after taking feedback from friends. **'write-up.pdf'** includes summary, design, feedback and resources used in my project.
+I have used baseball players dataset to make a Tableau story.This is a data set containing 1,157 baseball players including their handedness (right or left handed), height (in inches), weight (in pounds), batting average, and home runs. I have used visualisations in Tableau to see trends in performance of different players. 
+
+- **'initial.twbx'** contains my initial project. 
+
+- **'final.twbx'** contains my project after taking feedback from friends. 
+
+- **'write-up.pdf'** includes summary, design, feedback and resources used in my project.
