@@ -1,4 +1,4 @@
-# Data Story-telling with Tableau
+# Create a Tableau story
 
 ## Project Overview
 
